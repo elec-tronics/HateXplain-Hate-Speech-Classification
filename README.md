@@ -21,3 +21,17 @@ Frameworks & Libraries: Jupyter Notebook, scikit-learn, NumPy, Pandas, Matplotli
 Core Concepts: Supervised Machine Learning, Multiclass Classification, Feature Extraction
 
 Machine Learning Algorithms: K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), Decision Trees, Naive Bayes, Random Forest (RF), AdaBoost
+
+## Approach
+Exploratory Data Analysis (EDA): Data overview, label distribution, class imbalance check, annotation agreement analysis
+
+Data Preprocessing: Tokenization, stopword removal, stemming, truncation/padding to 200 tokens, bi/tri-gram generation
+
+Feature Extraction: TF-IDF (uni/bi/tri-grams), Word2Vec (200-dim CBOW via Gensim), GloVe embeddings (200-dim), LSTM feature maps
+
+Modeling: Machine Learning (KNN, SVC, Decision Trees, Naive Bayes, Random Forest, AdaBoost) and Deep Learning (LSTM with GloVe embeddings)
+
+Evaluation Metrics: Accuracy, Precision, Recall, F1 score, Macro F1 score
+
+## Contributing
+Contributions are welcome! Please fork the repo and submit a pull request.
