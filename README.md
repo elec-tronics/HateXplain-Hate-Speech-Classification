@@ -33,5 +33,8 @@ Modeling: Machine Learning (KNN, SVC, Decision Trees, Naive Bayes, Random Forest
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1 score, Macro F1 score
 
+<img width="768" height="30" alt="hatespeech_methodology" src="https://github.com/user-attachments/assets/cd4c0683-3dc5-4d5e-9036-144b413f2933" />
+
+
 ## Contributing
 Contributions are welcome! Please fork the repo and submit a pull request.
